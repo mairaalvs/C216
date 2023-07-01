@@ -1,2 +1,2 @@
 # C216
-C216 - Sistemas Distribuídos
+C216 - Sistemas Distribuídos - Maíra Alves Chagas

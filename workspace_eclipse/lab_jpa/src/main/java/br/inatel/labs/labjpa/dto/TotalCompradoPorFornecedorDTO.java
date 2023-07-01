@@ -17,4 +17,9 @@ public class TotalCompradoPorFornecedorDTO {
     public BigDecimal getTotalComprado() {
         return totalComprado;
     }
+
+    @Override
+	public String toString() {
+		return "TotalCompradoPorFornecedorDTO [totalComprado=" + totalComprado + "]";
+	}
 }
